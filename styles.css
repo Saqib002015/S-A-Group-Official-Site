@@ -13,10 +13,10 @@ body {
   line-height: 1.6;
 }
 .logo {
-  max-width: 180px;
+  max-width: 200px;
   height: auto;
   display: block;
-  margin: 10px 0;
+  margin: 20px 0;
 }
 
 /* Header */
