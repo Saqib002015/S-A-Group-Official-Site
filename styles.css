@@ -93,6 +93,40 @@ footer {
   position: relative;
   margin-top: 40px;
 }
+.leadership-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 30px;
+}
+.leader-card {
+  background-color: #f0f4f8;
+  border-radius: 10px;
+  padding: 20px;
+  width: 280px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
+}
+.leader-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+.leader-card h3 {
+  color: #003366;
+  margin-bottom: 5px;
+}
+.leader-card .title {
+  font-weight: bold;
+  color: #0077C8;
+  margin-bottom: 10px;
+}
+.leader-card p {
+  font-size: 0.95rem;
+}
 @media (max-width: 768px) {
   nav ul {
     flex-direction: column;
