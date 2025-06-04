@@ -135,4 +135,50 @@ footer {
   .logo {
     margin-bottom: 10px;
   }
+}.course-section {
+  background: #001f3f;
+  color: white;
+  text-align: center;
+  padding: 50px 20px;
 }
+.course-section h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+.course-section p {
+  font-size: 1.1rem;
+  margin-bottom: 25px;
+}
+.btn-whatsapp {
+  background: #25D366;
+  color: white;
+  padding: 12px 25px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+}
+.course-details {
+  background: #f2f7fc;
+  padding: 40px 20px;
+  text-align: left;
+}
+.course-details h3 {
+  color: #003366;
+  font-size: 1.6rem;
+  margin-bottom: 20px;
+}
+.course-details ul {
+  list-style: none;
+  padding-left: 0;
+}
+.course-details li {
+  padding: 8px 0;
+  font-size: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+.course-pyramid {
+  max-width: 100%;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
